@@ -8,8 +8,8 @@ namespace ConsoleApp1
     {
         public int Add()
         {
-            int x1 = 5;
-            int x2 = 10;
+            var x1 = 5;
+            var x2 = 10;
             return x1 + x2;
         }
     }
