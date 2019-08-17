@@ -6,8 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //First programme
-            Console.WriteLine("Hello World!");
+            //Code edited in Github
         }
     }
 }
